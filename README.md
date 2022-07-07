@@ -5,7 +5,7 @@ To contribute new comments please use the [Chrome extension](TODO). Manually-cre
  
 Please contribute notes on usage, relevant examples, references, and gotchas.  
 Do not ask for help here—use the [Forums](https://forums.unrealengine.com).  
-Do not report bugs here—use the [Bug Reporter](https://www.unrealengine.com/en-US/support/report-a-bug).
+Do not report bugs here—use the [Bug Submission Form](https://www.unrealengine.com/en-US/support/report-a-bug).
 
 ## Supported sites
 - [Unreal Engine Documentation](https://docs.unrealengine.com)
