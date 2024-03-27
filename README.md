@@ -3,7 +3,7 @@
 ## Viewing and contributing notes
 See the [Developer Notes](https://github.com/Developer-Notes-Extension) page for links to the extension.
  
-> **Warning**  
+> [!IMPORTANT]  
 > Please only contribute notes on usage, relevant examples, references, and gotchas.  
 > Do not ask for help here—use the [Forums](https://forums.unrealengine.com).  
 > Do not report bugs here—use the [Bug Submission Form](https://www.unrealengine.com/en-US/support/report-a-bug).
