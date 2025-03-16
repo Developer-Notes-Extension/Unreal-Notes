@@ -6,7 +6,8 @@ See the [Developer Notes](https://github.com/Developer-Notes-Extension) page for
 > [!IMPORTANT]  
 > Please only contribute notes on usage, relevant examples, references, and gotchas.  
 > Do not ask for help here—use the [Forums](https://forums.unrealengine.com).  
-> Do not report bugs here—use the [Bug Submission Form](https://www.unrealengine.com/en-US/support/report-a-bug).
+> Do not report bugs here—use the [Bug Submission Form](https://www.unrealengine.com/en-US/support/report-a-bug).  
+> Do not post AI-generated content.
 
 ## Supported sites
 - [Unreal Engine Documentation](https://docs.unrealengine.com)
